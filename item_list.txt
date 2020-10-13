@@ -1,0 +1,27 @@
+Artist Trading Cards
+--------------------
+tc1 - Mousey
+tc2 - Kopie
+tc3 - Take Flight
+tc4 - Bird Power
+tc5 - Fox Artist 
+tc6 - Trinity
+tc7 - Teddy B
+
+Art Diary
+---------
+ad1 - Planner
+ad2 - Sashiko
+ad3 - Coat Hanger
+ad4 - Exploration
+ad5 - Zentangle
+ad6 - Relaxation
+ad7 - I'll Be Back
+
+Paper Structure
+---------------
+ar1 - Rock Castle
+ar2 - Noodle Cafe
+ar3 - Apartment
+ar4 - Outpost
+ar5 - School
